@@ -1,0 +1,14 @@
+
+Pesquisa sobre a importância de HTML, JavaScript e CSS.
+HTML é a linguagem de marcação padrão usada para estruturar e apresentar conteúdo na web.
+Ele define os elementos básicos de uma página web, como cabeçalhos, parágrafos, listas, imagens, links, entre outros.
+Tendo como importância a estruturação do conteúdo, compatibilidade e acessibilidade, e base para desenvolvimento web.
+
+JavaScript é uma linguagem de programação de alto níverl, usada para tornar as páginas web interativas e dinâmics.
+JavaScript permite adicionar comportamentos dinâmicos a uma página web, como animações, validação de formulários. Interatividade e funcionalidade são pontos importantes do Javascript, assim como a melhoria da experiência do usuário, e frameworks e bibliotecas. 
+
+CSS é uma linguagem de estilo usada para definir a apresentação e layout de elementos HTML, na página web.
+CSS controla a aparência de elementos, incluindo cores, fontes, animações, permitindo criar designs atraentes e consistentes.
+Responsividade também é um dos pontos fortes, se adaptando a tamanhos de telas dos dispositivos. Utilizando técnicas como classes e seletores, CSS permite estilizar elementos de forma eficiente e modular. 
+
+HTML, JavaScript e CSS saõ pilares essenciais no desenvolvimento web, trabalhando em conjunto para criar páginas web funcionais, interativas e esteticamente agradáveis. 
